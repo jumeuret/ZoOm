@@ -1,0 +1,14 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Test_Stub
+<<<<<<< HEAD
+build_property.ProjectDir = D:\Université\SAE\DeveloppementApp\zoom\zoom\Test_Stub\
+=======
+build_property.ProjectDir = C:\cLemzZz_5\Etudes\BUT\SAE\ihm\zoom\Test_Stub\
+>>>>>>> a96ca60795b881de2a9c06c1055e44ba2280221e

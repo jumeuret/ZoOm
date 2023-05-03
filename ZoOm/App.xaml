@@ -1,0 +1,13 @@
+﻿<Application x:Class="ZoOm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ZoOm" 
+             xmlns:conv="clr-namespace:ZoOm.Convertisseurs"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <conv:DateToAgeConverter x:Key="dateToAgeConverter"/>
+        <conv:StringToImageConverter x:Key="stringToImageConverter"/>
+        <conv:StatutToStringConverter x:Key="statutToStringConverter"/>
+        <conv:GenreToStringConverter x:Key="genreToStringConverter"/>
+    </Application.Resources>
+</Application>

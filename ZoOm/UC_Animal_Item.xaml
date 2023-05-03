@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="ZoOm.UC_Animal_Item"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ZoOm"
+             xmlns:conv="clr-namespace:ZoOm.Convertisseurs" mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="150">
+    <Grid Background="LightGray" MinHeight="25" MinWidth="220">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="0" Grid.Column="1" x:Name="NomAnimal"/>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,3" Grid.Row="1" Grid.Column="1" FontSize="7" x:Name="NomEspece"/>
+        <Image Grid.Column="0" MaxWidth="30" x:Name="ImageAnimal"/>
+    </Grid>
+</UserControl>

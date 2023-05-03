@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Test_Manager\\Test_Manager.csproj": {}
+  },
+  "projects": {
+    "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Justine\\.nuget\\packages\\",
+        "outputPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Test_Manager\\Test_Manager.csproj": {}
+  },
+  "projects": {
+    "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\clemv\\.nuget\\packages\\",
+        "outputPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clemv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj": {
+                "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj"
+              },
+              "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Persistance\\Persistance.csproj": {
+                "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Persistance\\Persistance.csproj"
+=======
+              "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj": {
+                "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj"
+              },
+              "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Persistance\\Persistance.csproj"
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj",
+        "projectName": "Modele",
+        "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj",
+        "packagesPath": "C:\\Users\\Justine\\.nuget\\packages\\",
+        "outputPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj",
+        "projectName": "Modele",
+        "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj",
+        "packagesPath": "C:\\Users\\clemv\\.nuget\\packages\\",
+        "outputPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clemv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\Justine\\.nuget\\packages\\",
+        "outputPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\clemv\\.nuget\\packages\\",
+        "outputPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clemv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj": {
+                "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Modele\\Modele.csproj"
+=======
+              "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj": {
+                "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Modele\\Modele.csproj"
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Test_Manager\\Test_Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Test_Manager\\Test_Manager.csproj",
+        "projectName": "Test_Manager",
+        "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Test_Manager\\Test_Manager.csproj",
+        "packagesPath": "C:\\Users\\Justine\\.nuget\\packages\\",
+        "outputPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Test_Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Test_Manager\\Test_Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Test_Manager\\Test_Manager.csproj",
+        "projectName": "Test_Manager",
+        "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Test_Manager\\Test_Manager.csproj",
+        "packagesPath": "C:\\Users\\clemv\\.nuget\\packages\\",
+        "outputPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Test_Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\clemv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Business\\Business.csproj": {
+                "projectPath": "D:\\Université\\SAE\\DeveloppementApp\\zoom\\zoom\\Business\\Business.csproj"
+=======
+              "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Business\\Business.csproj": {
+                "projectPath": "C:\\cLemzZz_5\\Etudes\\BUT\\SAE\\ihm\\zoom\\Business\\Business.csproj"
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+>>>>>>> ee0962f850bd2f30c513ed2c0b5f9ab536ec6164
+        }
+      }
+    }
+  }
+}

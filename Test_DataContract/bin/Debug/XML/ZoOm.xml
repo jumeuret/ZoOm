@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnimal xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Modele">
+  <Animal>
+    <DateNaiss>2009-09-18T00:00:00</DateNaiss>
+    <Espece>
+      <AgeRecord>50</AgeRecord>
+      <AgeRecordCaptivite>70</AgeRecordCaptivite>
+      <Carte>\Guanaco\guanaco.png</Carte>
+      <Habitat>Montagnes</Habitat>
+      <Nom>Guanaco</Nom>
+      <NomLatin>Lama Glama Guanicoe</NomLatin>
+      <Particularités xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:string>Crachent leur salive au visage des gens qu'ils n'aiment pas</d4p1:string>
+        <d4p1:string>Peuvent cracher leur salive à plus de 3 mètres de distance</d4p1:string>
+      </Particularités>
+      <PoidsRecord>147.2</PoidsRecord>
+      <Prédateurs>Puma, Condor (Jeunes individus)</Prédateurs>
+      <Regime>Herbivore</Regime>
+      <Statut>PreoccupationMineure</Statut>
+      <TailleRecord>1.87</TailleRecord>
+    </Espece>
+    <Genre>Male</Genre>
+    <Nettoyage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.856481+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nettoyage>
+    <Nom>Diego</Nom>
+    <Nourrissage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8538464+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nourrissage>
+    <Particularités xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>Mignon</d3p1:string>
+      <d3p1:string>Grognon</d3p1:string>
+    </Particularités>
+    <Photos xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>\Guanaco\Diego.png</d3p1:string>
+    </Photos>
+    <Poids xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8533141+02:00</d3p1:Key>
+        <d3p1:Value>59</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Poids>
+    <Sante xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566136+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Sante>
+    <Taille xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8512679+02:00</d3p1:Key>
+        <d3p1:Value>1.2</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Taille>
+  </Animal>
+  <Animal>
+    <DateNaiss>2006-04-21T00:00:00</DateNaiss>
+    <Espece>
+      <AgeRecord>50</AgeRecord>
+      <AgeRecordCaptivite>70</AgeRecordCaptivite>
+      <Carte>\Requin Renard\requinRenard.png</Carte>
+      <Habitat>Océans</Habitat>
+      <Nom>Requin Renard</Nom>
+      <NomLatin>Alopias vulpinus</NomLatin>
+      <Particularités xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:string>Leur appendice caudal peut mesurer jusqu'à la moitié de leur longueur totale</d4p1:string>
+        <d4p1:string>Pratique le cannibalisme intra-utérin</d4p1:string>
+      </Particularités>
+      <PoidsRecord>440</PoidsRecord>
+      <Prédateurs>Humains</Prédateurs>
+      <Regime>Piscivore</Regime>
+      <Statut>Vulnerable</Statut>
+      <TailleRecord>6.3</TailleRecord>
+    </Espece>
+    <Genre>Male</Genre>
+    <Nettoyage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566304+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nettoyage>
+    <Nom>Pascal</Nom>
+    <Nourrissage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566291+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nourrissage>
+    <Particularités xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>Kawaii</d3p1:string>
+      <d3p1:string>A l'air stupide mais est intelligent</d3p1:string>
+    </Particularités>
+    <Photos xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>\Requin Renard\Pascal.png</d3p1:string>
+    </Photos>
+    <Poids xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8566284+02:00</d3p1:Key>
+        <d3p1:Value>397.4</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Poids>
+    <Sante xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566309+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Sante>
+    <Taille xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8566271+02:00</d3p1:Key>
+        <d3p1:Value>5.7</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Taille>
+  </Animal>
+  <Animal>
+    <DateNaiss>1987-12-02T00:00:00</DateNaiss>
+    <Espece>
+      <AgeRecord>15</AgeRecord>
+      <AgeRecordCaptivite>20</AgeRecordCaptivite>
+      <Carte>Lynx Boréal/Lynx Boréal.png</Carte>
+      <Habitat>Forêts boréales</Habitat>
+      <Nom>Lynx Boréal</Nom>
+      <NomLatin>Lynx lynx</NomLatin>
+      <Particularités xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:string>N'a que 28 dents contraitrement aux autres félins qui en ont 30</d4p1:string>
+      </Particularités>
+      <PoidsRecord>0.35</PoidsRecord>
+      <Prédateurs>Ours brun, Loup gris</Prédateurs>
+      <Regime>Carnivore</Regime>
+      <Statut>PreoccupationMineure</Statut>
+      <TailleRecord>0.75</TailleRecord>
+    </Espece>
+    <Genre>Male</Genre>
+    <Nettoyage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.856636+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nettoyage>
+    <Nom>Cognac</Nom>
+    <Nourrissage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566323+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nourrissage>
+    <Particularités xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>Fait la fine bouche quand à son repas</d3p1:string>
+    </Particularités>
+    <Photos xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>Lynx Boréal/Cognac.png</d3p1:string>
+    </Photos>
+    <Poids xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8566319+02:00</d3p1:Key>
+        <d3p1:Value>31.9</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Poids>
+    <Sante xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566364+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Sante>
+    <Taille xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8566315+02:00</d3p1:Key>
+        <d3p1:Value>0.68</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Taille>
+  </Animal>
+  <Animal>
+    <DateNaiss>2017-06-14T00:00:00</DateNaiss>
+    <Espece>
+      <AgeRecord>0</AgeRecord>
+      <AgeRecordCaptivite>0</AgeRecordCaptivite>
+      <Carte>Requin Dormeur Mexicain.png</Carte>
+      <Habitat>Océans</Habitat>
+      <Nom>Requin Dormeur Mexicain</Nom>
+      <NomLatin>Heterodontus mexicanus</NomLatin>
+      <Particularités xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d4p1:string>Tacheté de noir</d4p1:string>
+      </Particularités>
+      <PoidsRecord>0</PoidsRecord>
+      <Prédateurs>Homme</Prédateurs>
+      <Regime>Piscivore</Regime>
+      <Statut>DonneesInsufisantes</Statut>
+      <TailleRecord>0.7</TailleRecord>
+    </Espece>
+    <Genre>Male</Genre>
+    <Nettoyage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566382+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nettoyage>
+    <Nom>Carlos</Nom>
+    <Nourrissage xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566378+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Nourrissage>
+    <Particularités xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>Aime se rouler dans le sable</d3p1:string>
+    </Particularités>
+    <Photos xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:string>Requin Dormeur Mexicain/ Carlos.png</d3p1:string>
+    </Photos>
+    <Poids xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.8566374+02:00</d3p1:Key>
+        <d3p1:Value>37.9</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Poids>
+    <Sante xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimeboolean>
+        <d3p1:Key>2022-06-12T12:24:21.8566417+02:00</d3p1:Key>
+        <d3p1:Value>false</d3p1:Value>
+      </d3p1:KeyValueOfdateTimeboolean>
+    </Sante>
+    <Taille xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d3p1:KeyValueOfdateTimefloat>
+        <d3p1:Key>2022-06-12T12:24:21.856637+02:00</d3p1:Key>
+        <d3p1:Value>0.47</d3p1:Value>
+      </d3p1:KeyValueOfdateTimefloat>
+    </Taille>
+  </Animal>
+</ArrayOfAnimal>

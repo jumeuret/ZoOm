@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ZoOm.UC_Recherche"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ZoOm"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="white">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="1" Width="175" Height="40" Margin="0,0,55,20" FontSize="28" x:Name="Recherche"/>
+        <Button Grid.Row="1" MaxWidth="35" MaxHeight="35" Margin="180,0,0,19" Background="white" BorderThickness="0" Click="Loupe_Click">
+            <Image Source="/Icones/Recherche.jpg" />
+        </Button>
+    </Grid>
+</UserControl>

@@ -1,0 +1,109 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>ZoOm</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Images\Animaux\RequinRenard\**" />
+    <EmbeddedResource Remove="Images\Animaux\RequinRenard\**" />
+    <None Remove="Images\Animaux\RequinRenard\**" />
+    <Page Remove="Images\Animaux\RequinRenard\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Icones\Actualiser.png" />
+    <None Remove="Icones\Ajout.jpg" />
+    <None Remove="Icones\AjoutImage.png" />
+    <None Remove="Icones\ChangerImage.png" />
+    <None Remove="Icones\CocheOk.png" />
+    <None Remove="Icones\CocheVide.png" />
+    <None Remove="Icones\Coin.png" />
+    <None Remove="Icones\CoinRetouné.jpg" />
+    <None Remove="Icones\CoinRetourné.jpg" />
+    <None Remove="Icones\Compte.png" />
+    <None Remove="Icones\Connexion.png" />
+    <None Remove="Icones\Deconnexion.png" />
+    <None Remove="Icones\Fermer.png" />
+    <None Remove="Icones\Historique.png" />
+    <None Remove="Icones\IconeDirecteur.jpg" />
+    <None Remove="Icones\IconeSoigneur.jpg" />
+    <None Remove="Icones\Modifier.png" />
+    <None Remove="Icones\Recherche.jpg" />
+    <None Remove="Images\Animaux\Dendrobates_leucomelas_map-fr.svg.png" />
+    <None Remove="Images\Animaux\noemie.jpg" />
+    <None Remove="Images\Dendrobates_leucomelas_map-fr.svg.png" />
+    <None Remove="Images\Logo_ZoOm.png" />
+    <None Remove="Images\Logo_ZoOm_Ecritures.png" />
+    <None Remove="Images\Logo_ZoOm_Symbole.png" />
+    <None Remove="Images\noemie.jpg" />
+    <None Remove="Images\SplashScreen.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icones\Actualiser.png" />
+    <Resource Include="Icones\Ajout.jpg" />
+    <Resource Include="Icones\AjoutImage.png" />
+    <Resource Include="Icones\ChangerImage.png" />
+    <Resource Include="Icones\CocheOk.png" />
+    <Resource Include="Icones\CocheVide.png" />
+    <Resource Include="Icones\Coin.png" />
+    <Resource Include="Icones\CoinRetourné.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icones\Compte.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icones\Connexion.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icones\Deconnexion.png" />
+    <Resource Include="Icones\Fermer.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icones\Historique.png" />
+    <Resource Include="Icones\IconeDirecteur.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icones\IconeSoigneur.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icones\Modifier.png" />
+    <Resource Include="Icones\Recherche.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\Animaux\Dendrobates_leucomelas_map-fr.svg.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Animaux\noemie.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Logo_ZoOm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Logo_ZoOm_Ecritures.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Logo_ZoOm_Symbole.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reactive" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj" />
+    <ProjectReference Include="..\Modele\Modele.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SplashScreen Include="Images\SplashScreen.png" />
+  </ItemGroup>
+
+</Project>

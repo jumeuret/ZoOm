@@ -1,0 +1,22 @@
+﻿<Window x:Class="ZoOm.PageRecherche"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZoOm"
+        mc:Ignorable="d"
+        Title="PageRecherche" Height="500" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="black">
+        <Grid Background="darkgray" Margin="3,3,3,3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="7*"></RowDefinition>
+                <RowDefinition Height="1*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Click="UCAnimal_Click">
+                <ContentControl x:Name="UC_Aniaml_ItemCc"/>
+            </Button>
+            <Button Click="Non_Click" Grid.Row="1" Content="Quitter" FontSize="20" MaxHeight="35" MaxWidth="140" Background="white" BorderBrush="Black"/>
+        </Grid>
+    </Grid>
+</Window>

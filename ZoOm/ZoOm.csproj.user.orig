@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+<<<<<<< HEAD
+    <_LastSelectedProfileId>D:\Université\SAE\DeveloppementApp\zoom\zoom\ZoOm\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+=======
+    <_LastSelectedProfileId>C:\cLemzZz_5\Etudes\BUT\SAE\ihm\zoom\ZoOm\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+>>>>>>> a96ca60795b881de2a9c06c1055e44ba2280221e
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+<<<<<<< HEAD
+  <ItemGroup>
+    <Compile Update="ImageAgrandie.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageConnexion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageDeconnexion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageRecherche.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_affichageCarte.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_ajoutAnimal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Animal_Item.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Connexion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Animal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Deconnexion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_IconeActualisation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_IconeAjoutAnimal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_IconeDirecteur.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_IconeSoigneur.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_InfoAnimal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Icone_Modification.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Modifier.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_Recherche.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UC_ZoneBlanche.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ImageAgrandie.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageConnexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageDeconnexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageRecherche.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_affichageCarte.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_ajoutAnimal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Animal_Item.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Connexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Animal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Deconnexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_IconeActualisation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_IconeAjoutAnimal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_IconeDirecteur.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_IconeSoigneur.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_InfoAnimal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Icone_Modification.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Modifier.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_Recherche.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UC_ZoneBlanche.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+=======
+  <ItemGroup />
+  <ItemGroup />
+>>>>>>> a96ca60795b881de2a9c06c1055e44ba2280221e
+</Project>

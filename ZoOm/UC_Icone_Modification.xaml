@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="ZoOm.UC_Icone_Modification"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ZoOm">
+    <Button Click="Button_Click" MaxHeight="100" MaxWidth="100" Background="#00A86B" BorderThickness="0">
+        <Image Source="/Icones/Modifier.png" />
+    </Button>
+</UserControl>
